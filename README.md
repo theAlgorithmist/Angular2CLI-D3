@@ -14,7 +14,7 @@ Author:  Jim Armstrong - [The Algorithmist]
 theAlgorithmist [at] gmail [dot] com
 
 Angular 2: RC1
-Angular CLI: 1.9 Beta 5
+Angular CLI: 1.0 Beta 5
 
 ## Installation
 
