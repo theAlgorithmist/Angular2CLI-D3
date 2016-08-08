@@ -81,4 +81,4 @@ Apache 2.0
 [ng-Vegas demo]: <https://github.com/gdi2290/ng-vegas-angular2-d3>
 [Angular CLI]: <https://www.npmjs.com/package/angular-cli>
 [Wiki on 3rd party libraries]: <https://github.com/angular/angular-cli/wiki/3rd-party-libs>
-[Broccoli Merge Trees Error]: <https://github.com/angular/angular-cli/issues/1439>
+[Broccoli Merge Trees Error]: <http://www.algorithmist.net/programming/broccoli-merge-trees-error/>
