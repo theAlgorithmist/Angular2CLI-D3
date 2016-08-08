@@ -14,7 +14,7 @@ Author:  Jim Armstrong - [The Algorithmist]
 theAlgorithmist [at] gmail [dot] com
 
 Angular 2: RC1
-Angular CLI: 1.0 Beta 5
+Angular CLI: 1.0 Beta 5 (updated beta 10 - V1.0.1)
 
 ## Installation
 
@@ -36,7 +36,7 @@ The goals of this demo are
 I hope that you find something instructive from the code and are interested in improving the demo in some way.
 
 ### Version
-1.0.0
+1.0.1
 
 ### Building and Running the demo
 
@@ -49,15 +49,16 @@ Finally, we have a build process that does not involve dozens of gulp plugins an
 Yes, that's it :)
 
 
-After building, execute **ng serve** .  Once the server is up, hit localhost:4200 to view the demo.
+After building, execute **ng serve** .  Once the server is up, hit localhost:4200 to view the demo.  You should get something similar to the following:
 
-Yes, that's really all :)
+![Image of Angular2 D3 Demo]
+(http://algorithmist.net/image/d3-bar.png)
  
 
 This demo uses the same chart styles as the [ng-Vegas demo].  Modify the styling as you see fit.
 
 
-The demo has been tested in late-model Chrome on a Mac. 
+The demo has been tested in late-model Chrome on a Mac.  If you experience the [Broccoli Merge Trees Error] if building this project after updating the CLI, then you may have to implement a one-line hack to a config file.
 
 
 ### Contributions
@@ -80,3 +81,4 @@ Apache 2.0
 [ng-Vegas demo]: <https://github.com/gdi2290/ng-vegas-angular2-d3>
 [Angular CLI]: <https://www.npmjs.com/package/angular-cli>
 [Wiki on 3rd party libraries]: <https://github.com/angular/angular-cli/wiki/3rd-party-libs>
+[Broccoli Merge Trees Error]: <https://github.com/angular/angular-cli/issues/1439>
