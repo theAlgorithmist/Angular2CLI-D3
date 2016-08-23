@@ -1,10 +1,10 @@
 {
-  "name": "diq-conversation",
+  "name": "a2d3-bar",
   "version": "0.0.0",
   "license": "MIT",
   "angular-cli": {},
   "scripts": {
-    "start": "ng serve",
+    "start": "ng server",
     "postinstall": "typings install",
     "lint": "tslint \"src/**/*.ts\"",
     "test": "ng test",

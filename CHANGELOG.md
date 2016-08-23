@@ -9,5 +9,5 @@ Upgraded to support Angular 2.0.0-rc.1
 ## Notes
 Although this software supports Angular 2.0.0.rc5, angular-cli does so, but in a limited fashion:
 * I tried, but failed, to upgrade it to support Angular 2.0.0.rc5 as per instructions on the [Angular RC4 to RC5 Migration](https://angular.io/docs/ts/latest/cookbook/rc4-to-rc5.html).
-* Therefore when creating new elements using angular-cli they will have to be re-factored (minor work) to fully fundction as RC5 citizens.
+* Therefore when creating new elements using angular-cli they will have to be re-factored (minor work) to fully function as RC5 citizens.
 * I created an [issue](https://github.com/angular/angular-cli/issues/1727) on the angular-cli site and we are having a conversation about it, but no resolution yet.
