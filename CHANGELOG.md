@@ -5,6 +5,7 @@ Upgraded to support Angular 2.0.0-rc.1
 * Migrated all additional packages to the same versions as the one used on the [Angular 2.0.0-rc.5 Quick Start](https://angular.io/docs/ts/latest/quickstart.html) tutorial.
 * Refactored the software to support Angular 2.0.0-rc.5 modular approach.
 * Fixed the unit and e2e tests
+* I attempted, but failed to upgrade to D3v-4.2.2, thus I kept it on v3.5.17. I decided to check what happened and learned that D3v.4.* has been modularzied. I believe that with a bit of work we this work can be upgraded to  D3v.4.*.
 
 ## Notes
 Although this software supports Angular 2.0.0.rc5, angular-cli does so, but in a limited fashion:
