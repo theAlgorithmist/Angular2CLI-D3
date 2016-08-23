@@ -30,7 +30,6 @@ import { BarGraphDirective } from './bar-graph.directive';
 @Component({
   moduleId: module.id,
   selector: 'a2d3-bar-app',
-  directives: [BarGraphDirective],
   styleUrls: ['a2d3-bar.component.css'],
   templateUrl: 'a2d3-bar.component.html'
 })
