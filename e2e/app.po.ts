@@ -4,6 +4,6 @@ export class A2d3BarPage {
   }
 
   getParagraphText() {
-    return element(by.css('a2d3-bar-app h1')).getText();
+    return element(by.id("algorithmist")).getText();
   }
 }

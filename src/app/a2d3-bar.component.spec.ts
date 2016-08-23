@@ -12,18 +12,14 @@ describe("A2d3BarAppComponent", () => {
         });
     });
 
-    it("canonical test", async(() => {
+    it("should ...", async(() => {
         TestBed.overrideComponent(A2d3BarAppComponent, {set: {
             template: "<p>Content</p>"
         }});
         TestBed.compileComponents().then(() => {
-            let fixture = TestBed.createComponent(A2d3BarAppComponent);
-            fixture.detectChanges();
-            let compiled = fixture.debugElement.nativeElement;
-
-            // expect(compiled).toContain("DiQ Conversation");
-            // expect(compiled).toContain("Content");
-            expect(1+1).toBe(2);
+            let app = TestBed.createComponent(A2d3BarAppComponent);
+            app.detectChanges();
+            expect(app).toBeTruthy();
         });
     }));
 });

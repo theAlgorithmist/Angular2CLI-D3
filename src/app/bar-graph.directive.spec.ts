@@ -13,7 +13,7 @@ describe("BarGraphDirective", () => {
         });
     });
 
-    it("canonical test", async(() => {
+    it("it should ...", async(() => {
         TestBed.overrideComponent(BarGraphDirective, {set: {
             template: "<p>Content</p>"
         }});
@@ -22,9 +22,7 @@ describe("BarGraphDirective", () => {
             fixture.detectChanges();
             let compiled = fixture.debugElement.nativeElement;
 
-            // expect(compiled).toContain("DiQ Conversation");
-            // expect(compiled).toContain("Content");
-            expect(1+1).toBe(2);
+            expect(fixture).toBeTruthy();
         });
     }));
 });
