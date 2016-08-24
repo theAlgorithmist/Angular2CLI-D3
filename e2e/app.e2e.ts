@@ -7,8 +7,8 @@ describe('a2d3-bar App', function() {
     page = new A2d3BarPage();
   });
 
-  it('should display message saying app works', () => {
+  it('should display message identifying The Algorithmist', () => {
     page.navigateTo();
-    expect(page.getParagraphText()).toEqual('a2d3-bar works!');
+    expect(page.getParagraphText()).toEqual('The Algorithmist');
   });
 });
