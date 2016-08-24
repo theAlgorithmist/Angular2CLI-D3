@@ -13,7 +13,7 @@ Author:  Jim Armstrong - [The Algorithmist]
 
 theAlgorithmist [at] gmail [dot] com
 
-Angular 2: RC1 (RC5 via Rodrigo Silveria)
+Angular 2: RC1 (RC5 via Rodrigo Silveira)
 Angular CLI: 1.0 Beta 5 (updated beta 10 - V1.0.1)
 
 ## Installation
