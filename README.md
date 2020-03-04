@@ -1,6 +1,6 @@
 # Angular 2/Typescript/AngularCLI/Bootstrap D3 Bar Chart
 
-This example illustrates the basics of creating a simple bar chart using Angular 2 (updated to RC5), Typescript, and D3.  Bootstrap is used for layout and the entire application was scaffolded, built, and served with the (beta) [Angular CLI].
+This demo illustrates the basics of creating a simple bar chart using Angular 2 (updated to RC5), Typescript, and D3.  Bootstrap is used for layout and the entire application was scaffolded, built, and served with the (beta) [Angular CLI].
 
 This demo is visually the same as the previous Angular2/D3 demo, and retains is similarity to the [ng-Vegas demo].  The current demo modernizes that original D3 example using the Angular CLI and the current Angular 2 Release Candidate.
 
@@ -77,7 +77,7 @@ Apache 2.0
 
 [//]: # (kudos http://stackoverflow.com/questions/4823468/store-comments-in-markdown-syntax)
 
-[The Algorithmist]: <http://algorithmist.net>
+[The Algorithmist]: <https://www.linkedin.com/in/jimarmstrong>
 [ng-Vegas demo]: <https://github.com/gdi2290/ng-vegas-angular2-d3>
 [Angular CLI]: <https://www.npmjs.com/package/angular-cli>
 [Wiki on 3rd party libraries]: <https://github.com/angular/angular-cli/wiki/3rd-party-libs>
